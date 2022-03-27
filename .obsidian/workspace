@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "1390af4f8ace32b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f07ba81c92337ec",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_templates/lesson note template.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5b5db349f044519",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b6160c1d2c68c6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e9245ee01577bcc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef2d8aa45b8398f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "584757250c7e19dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b821902c2fc2a5f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11136aa561e7e25a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_templates/lesson note template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "233cb92b0a50128c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5534ceca3b551bff",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b3ae46e6bb8a49db",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "5f07ba81c92337ec",
+  "lastOpenFiles": [
+    "_templates/lesson note template.md",
+    "_templates/resource note template.md",
+    "_templates/weekly note template.md",
+    "_templates/daily note template.md"
+  ]
+}
