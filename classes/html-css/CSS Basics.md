@@ -1,0 +1,8 @@
+- font-size sets the font size(obviously). Use 'px'
+- color -changes color of text
+- background-color sets the background color
+- text-align aligns the text (left, right, center)
+- keywords - "red, "steelblue", "hotpink"
+- hex - hexadecimal values (hex codes) ''#7ab0fb'
+- rgb - rgb (0, 255, 0) first number is Red, Second number is Green, third number is blue.
+- hs1 - Hue, Saturation, Lightness hsl(240, 100%, 75%)
