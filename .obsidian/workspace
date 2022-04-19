@@ -118,12 +118,14 @@
   "active": "5f07ba81c92337ec",
   "lastOpenFiles": [
     "classes/Info Dumps/Dump 1.md",
-    "classes/html-css/HTML.md",
-    "classes/html-css/CSS-Beginner notes.md",
+    "classes/html-css/Images.md",
+    "classes/html-css/Commenting in HTML + CSS.md",
     "classes/html-css/CSS Basics.md",
+    "classes/html-css/CSS-Beginner notes.md",
+    "classes/html-css/HTML.md",
+    "classes/html-css/HTML Lists.md",
     "_templates/weekly note template.md",
     "_templates/resource note template.md",
-    "_templates/lesson note template.md",
-    "_templates/daily note template.md"
+    "_templates/lesson note template.md"
   ]
 }

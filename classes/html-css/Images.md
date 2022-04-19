@@ -1,0 +1,10 @@
+- Images are like links
+- use "src" = source
+- image tags are self-closing but you can close them yourself
+- can use file name or external sites, but external sites are bad practice
+- Images are not valid without an alt attribute, alt attributes describe an image.
+- alt text should describe the intent of the image.
+- Do not need to include the words "an image of"
+- If it is a decorative element or logo, it doesn't need alt text (but it <em>does</em> still require the alt attribute).
+- keep alt="" when no text is necessary
+- 
