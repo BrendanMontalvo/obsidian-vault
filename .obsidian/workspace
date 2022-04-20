@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "classes/Info Dumps/Dump 1.md",
+            "file": "classes/html-css/Creating columns.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "classes/Info Dumps/Dump 1.md",
+                "file": "classes/html-css/Creating columns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +117,15 @@
   },
   "active": "5f07ba81c92337ec",
   "lastOpenFiles": [
-    "classes/Info Dumps/Dump 1.md",
-    "classes/html-css/Images.md",
-    "classes/html-css/Commenting in HTML + CSS.md",
+    "classes/html-css/Creating columns.md",
     "classes/html-css/CSS Basics.md",
     "classes/html-css/CSS-Beginner notes.md",
+    "classes/html-css/External CSS.md",
     "classes/html-css/HTML.md",
     "classes/html-css/HTML Lists.md",
-    "_templates/weekly note template.md",
-    "_templates/resource note template.md",
-    "_templates/lesson note template.md"
+    "classes/html-css/Images.md",
+    "classes/html-css/Padding.md",
+    "classes/html-css/Tags.md",
+    "classes/html-css/Borders.md"
   ]
 }

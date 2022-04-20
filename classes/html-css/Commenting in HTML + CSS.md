@@ -17,3 +17,4 @@ div {
 }
 
 ```
+- `CTRL / shortcut for making comments in HTML and CSS`

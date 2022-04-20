@@ -1,0 +1,13 @@
+- h1-h6
+- p
+- strong and em
+- a
+- ul,ol, and li
+- img
+Layouts
+- header
+- main
+- section
+- footer
+- nav
+- div (generic)
