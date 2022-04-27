@@ -6,3 +6,4 @@
 - hex - hexadecimal values (hex codes) ''#7ab0fb'
 - rgb - rgb (0, 255, 0) first number is Red, Second number is Green, third number is blue.
 - hs1 - Hue, Saturation, Lightness hsl(240, 100%, 75%)
+- `font-family` is code you can use to change font styles and you can also use <strong>font stacks</strong> to tell the code what to look for, if your first option isn't available /found.
