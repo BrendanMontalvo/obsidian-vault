@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "classes/JavaScript/Basics/Some Syntax.md",
+            "file": "classes/JavaScript/Basics/Grabbing text input from a user.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "classes/JavaScript/Basics/Some Syntax.md",
+                "file": "classes/JavaScript/Basics/Grabbing text input from a user.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +117,15 @@
   },
   "active": "5f07ba81c92337ec",
   "lastOpenFiles": [
+    "classes/JavaScript/Basics/Grabbing text input from a user.md",
     "classes/JavaScript/Basics/Some Syntax.md",
+    "classes/JavaScript/Basics/Objects.md",
     "classes/JavaScript/Basics/Document Object Model.md",
     "classes/JavaScript/Basics/Functions.md",
     "classes/JavaScript/Basics/Strings.md",
     "classes/JavaScript/Basics/Setting a Variable.md",
     "classes/html-css/CSS Basics.md",
     "classes/html-css/HTML.md",
-    "classes/html-css/External CSS.md",
-    "classes/Info Dumps/BEM.md",
-    "classes/html-css/CSS-Beginner notes.md"
+    "classes/html-css/External CSS.md"
   ]
 }
